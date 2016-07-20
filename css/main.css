@@ -1,0 +1,163 @@
+.full {
+	margin: 0;
+}
+
+.strict {
+	padding: 25px 100px;
+}
+
+.typing {
+	background-image: url(http://codifyacademy.com/week1/advanced/img/bg1.png);
+	height: 800px;
+	position: relative;
+	bottom: 75px;
+}
+
+.typing h1 {
+	text-align: center;
+	font-size: 120px;
+	color: white;
+	position: relative;
+	top: 200px;
+	font-family: 'Lato', sans-serif;
+}
+
+.typing hr {
+	border-color: #15a4fa;
+	width: 50%;
+	margin-left: 25%;
+	position: relative;
+	top: 90px;
+}
+
+.typing p {
+	text-align: center;
+	position: relative;
+	top: 100px;
+	color: white;
+	font-size: 21px;
+}
+
+.typing button {
+	background-color: transparent; 
+	position: relative;
+	top: 110px;
+	left: 565px;
+	border-color: #15a4fa;
+	padding: 10px 10px;
+	border-bottom: transparent;
+	border-right: transparent;
+}
+
+.typing a {
+	position: relative;
+	top: 100%;
+}
+
+.simple {
+	text-align: center;
+}
+
+.simple h2 {
+	margin: 0 auto 50px auto;
+	font-size: 48px;
+	font-weight: lighter;
+}
+
+.simple p {
+	margin: 0 200px;
+	line-height: 1.8em;
+	font-size: 18px;
+	color: gray;
+	font-style: italic;
+}
+
+.features {
+	margin: 10px auto;
+	text-align: center;
+	align-content: center;
+	height: 350px;
+}
+
+.features h3 {
+	margin: 10px auto;
+	font-size: 24px;
+	font-weight: bold;
+
+}
+
+.features p {
+	font-size: 21px;
+	height: 50px;
+	width: 345px;
+	font-weight: lighter;
+	color: gray;
+	font-style: italic;
+}
+
+.optimize {
+	display: inline-block;
+	margin: 50px 15px;
+	padding: 10px;
+}
+
+.optimize img {
+	width: 53px;
+	height: 85px;
+}
+
+.clean {
+	display: inline-block;
+	margin: 50px 15px;
+	padding: 10px;
+}
+
+.clean img {
+	width: 53px;
+	height: 85px;
+}
+
+.font {
+	display: inline-block;
+	margin: 50px 15px;
+	padding: 10px;
+}
+
+.font img {
+	width: 53px;
+	height: 85px;
+
+}
+
+.showcase {
+	height: 695px;
+	background-color: rgba(169, 161, 161, 0.36);
+}
+
+.pro {
+	text-align: center;
+}
+
+.pro h4 {
+	font-size: 35px;
+	padding: 15px 0 15px 0;
+	margin: 0;
+
+}
+
+.pro p {
+	position: relative;
+	top: -30px;
+	font-weight: lighter;
+	font-style: italic;
+}
+
+.proof {
+	text-align: center;
+}
+
+.proof img {
+	padding: 5px 20px;
+	
+
+}
