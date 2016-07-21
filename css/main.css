@@ -11,6 +11,7 @@
 	height: 800px;
 	position: relative;
 	bottom: 75px;
+	text-align: center;
 }
 
 .typing h1 {
@@ -42,7 +43,6 @@
 	background-color: transparent; 
 	position: relative;
 	top: 110px;
-	left: 565px;
 	border-color: #15a4fa;
 	padding: 10px 10px;
 	border-bottom: transparent;
@@ -50,8 +50,9 @@
 }
 
 .typing a {
-	position: relative;
-	top: 100%;
+	color: white;
+	position:relative;
+	top: 200px;
 }
 
 .simple {
@@ -160,4 +161,101 @@
 	padding: 5px 20px;
 	
 
+}
+
+.subscribe {
+	background-image: url("http://codifyacademy.com/week1/advanced/img/bg2.png");
+	height: 500px;
+	text-align: center;
+	padding-top: 10%;
+	margin-bottom: 0;
+
+}
+
+.subscribe h5 {
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+	margin: 0;
+}
+
+.subscribe p {
+	font-weight: lighter;
+	color: gray;
+}
+
+form > input, textarea {
+	background-color: transparent;
+	display: block;
+	width: 25%;
+	position: relative;
+	left: 37%;
+	font-size: 16px;
+    padding: 10px;
+    border: 1px solid white;
+    margin: 10px;
+}
+
+.subscribe div {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.subscribe h6 {
+	display: inline;
+	font-size: 20px;
+	color: white;
+	margin-right: 35px;
+}
+
+.subscribe button {
+	display: inline;
+	background-color: transparent;
+	border: 1px solid #1aa1f2;
+	font-size: 14px;
+	width: 7%;
+	padding: 10px;
+	color: white;
+	position: relative;
+	left: 20px;
+}
+
+footer {
+	padding: 30px 50px;
+	height: 50px;
+	background-color: #F6F9F9;
+}
+
+footer p {
+	font-weight: bold;
+	float: left;
+	margin: 10px auto;
+	display: inline;
+	left: 50px;
+	font-size: 20px;
+	height: 60px;
+}
+
+.sm {
+	float: right;
+	margin: 10px auto;
+	height: 30px;
+	position: relative;
+	right: 50px;
+	bottom: 20px;
+}
+
+.sm i {
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	background-color: #15a4fa;
+	color: white;
+	font-size: 22px;
+	padding: 10px 10px;
+	margin: 10px 15px;
+}
+
+a {
+	text-decoration: none;
 }
